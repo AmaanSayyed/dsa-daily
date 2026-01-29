@@ -49,7 +49,7 @@ Each solution includes:
 
 ## 🛠️ Tech / Language
 
-- Language: **JavaScript** (may add TypeScript / Python later)
+- Language: **C++** (may add Javascript / Java later)
 - Platform: LeetCode / HackerRank / CodeStudio (as applicable)
 
 ---
